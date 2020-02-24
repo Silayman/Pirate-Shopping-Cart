@@ -1,2 +1,2 @@
 # Pirate-Shopping-Cart
-Pirate shopping cart
+Simple shopping cart
